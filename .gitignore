@@ -16,3 +16,11 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+inc/.DS_Store
+inc/templates/.DS_Store
+.DS_Store
+inc/templates/html5-drag-and-drop/css/style.css
+inc/templates/html5-drag-and-drop/index.html
+inc/templates/html5-drag-and-drop/index.php
+inc/templates/html5-drag-and-drop/js/index.js
+inc/templates/html5-drag-and-drop/license.txt
