@@ -15,5 +15,5 @@
 
 defined( 'ABSPATH' ) || die( 'File cannot be accessed directly' );
 
-require 'inc/classes/class-plugin-page-templates.php';
-new Plugin_Page_Templates();
+require 'inc/classes/class-eisenhower-matrix.php';
+new Eisenhower_Matrix();
