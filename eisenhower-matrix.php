@@ -3,13 +3,13 @@
  * Override theme templates from a plugin
  *
  * Plugin Name: PBrocks Eisenhower Matrix
- * Plugin URI:        https://paulund.co.uk
- * Description:       Override theme templates from a plugin - DO NOT ACTIVATE ON A LIVE SITE
+ * Plugin URI: https://github.com/pbrocks/eisenhower-matrix
+ * Description: Credits include Paulund https://paulund.co.uk, http://codepen.io/thehannahpen/pen/Jxteh
  * Version:           1.0.0
- http://codepen.io/thehannahpen/pen/Jxteh
- // * Author:            Paulund
- // * Author URI:        https://paulund.co.uk
- // * Domain Path:       /languages
+ * Author: pbrocks
+ * Author URI: https://paul.barthmaier.rocks
+ // * Domain Path: /languages
+ * Text Domain: pbrx-eisenhower-matrix
  */
 
 
