@@ -18,7 +18,7 @@ if ( have_posts() ) {
 
 ?>
 
-	<div class="container bg1">
+	<div class="matrix-container bg1">
 		<div class="header">Box 1</div>
 		<div class="box box1" 
 		ondrop="drop(event)" 
@@ -27,7 +27,7 @@ if ( have_posts() ) {
 
 	</div>
 </div>
-<div class="container bg2">
+<div class="matrix-container bg2">
 	<div class="header">Box 2</div>
 	<div class="box box2" 
 	ondrop="drop(event)" 
@@ -39,7 +39,7 @@ if ( have_posts() ) {
 
 
 </div>
-<div class="container bg3">
+<div class="matrix-container bg3">
 	<div class="header">Box 3</div>
 	<div class="box box3" 
 	ondrop="drop(event)" 
@@ -53,7 +53,7 @@ if ( have_posts() ) {
 	<div class="draggable" id="dragme5" draggable="true">Drag Me</div>
 </div>
 </div>
-<div class="container bg4">
+<div class="matrix-container bg4">
 	<div class="header">Box 4</div>
 	<div class="box box4" 
 	ondrop="drop(event)" 
